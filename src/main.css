@@ -1,0 +1,92 @@
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+.form {
+  background-color: #f5f5f5;
+  width: 450px;
+  margin: 30px auto 15px;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.form .input {
+  margin: 20px 10px 20px 20px;
+  padding: 0;
+  background-color: white;
+  height: 40px;
+  border: none;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  font-size: 20px;
+  width: 280px;
+  outline: none;
+}
+.form .add {
+  cursor: pointer;
+  margin: 20px 20px 20px 10px;
+  padding: 0 0;
+  color: white;
+  background-color: orangered;
+  font-size: 20px;
+  height: 40px;
+  width: 100px;
+  border: none;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+.tasks {
+  background-color: #f5f5f5;
+  width: 450px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 15px auto 30px;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+.tasks .task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: white;
+  width: 410px;
+  border: none;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  outline: none;
+  font-size: 20px;
+}
+.tasks .task .dlt {
+  cursor: pointer;
+  align-items: end;
+  margin: 20px 20px 20px 10px;
+  padding: 0 0;
+  color: white;
+  background-color: orangered;
+  font-size: 20px;
+  height: 30px;
+  width: 100px;
+  border: none;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
