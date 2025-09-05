@@ -3,7 +3,7 @@ h2 {
   text-align: center;
 }
 .form {
-  background-color: #f5f5f5;
+  background-color: #777;
   width: 450px;
   margin: 30px auto 15px;
   border-radius: 8px;
@@ -44,7 +44,7 @@ h2 {
   -o-border-radius: 8px;
 }
 .tasks {
-  background-color: #f5f5f5;
+  background-color: #777;
   width: 450px;
   padding-top: 5px;
   padding-bottom: 5px;
